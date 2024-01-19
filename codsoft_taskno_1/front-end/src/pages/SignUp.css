@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    margin-top: 24px;
+    border: none;
+}
+
+.signup-form{
+    margin-top: 24px;
+    padding-top: 24px;
+    padding-bottom: 60px;
+}
+.signup-username, .signup-password{
+    width: 290px;
+    padding: 14px;
+    margin-top: 24px;
+    font-size: 15px;
+}
+
+.signup-button{
+    width: 290px;
+    background-color: white;
+    outline: none;
+    border: none;
+    padding: 14px 160px;
+    margin-top: 24px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.signup-button:hover{
+    background-color: whitesmoke;
+}
+.signup-info{
+    margin-top: 24px;
+    text-align: center;
+    color: white;    
+}
+.signup-info a{
+    margin: 24px;
+    color: white;
+
+}

@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    margin-top: 24px;
+}
+
+.login-form{
+    margin-top: 24px;
+    padding-top: 24px;
+    padding-bottom: 60px;
+}
+.login-username, .login-password{
+    width: 290px;
+    padding: 14px;
+    margin-top: 24px;
+    font-size: 15px;
+
+}
+
+.login-button{
+    width: 290px;
+    background-color: white;
+    outline: none;
+    border: none;
+    padding: 14px 160px;
+    margin-top: 24px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.login-button:hover{
+    background-color: whitesmoke;
+}
+.login-info{
+    margin-top: 24px;
+    text-align: center;
+    color: white;
+    
+}
+.login-info a{
+    margin: 24px;
+    color: white;
+}
